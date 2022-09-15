@@ -1,6 +1,6 @@
 {
-  "name": "@khon123/random-string",
-  "version": "0.0.8",
+  "name": "@khorn/random-string",
+  "version": "0.0.9-alpha.0+737245a",
   "description": "> TODO: description",
   "author": "Khorn Pang <sokhon.pg@gmail.com>",
   "homepage": "https://github.com/Khon123/lerna-monorepo.git#readme",
