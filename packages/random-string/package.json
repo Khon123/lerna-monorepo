@@ -1,5 +1,5 @@
 {
-  "name": "@Khon123/random-string",
+  "name": "@khon123/random-string",
   "version": "0.0.7",
   "description": "> TODO: description",
   "author": "Khorn Pang <sokhon.pg@gmail.com>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/Khon123/lerna-monorepo/issues"
   },
-  "gitHead": "4485d56e975a20a3df1a3ab8c173eae44b32982b"
+  "gitHead": "29cc5fc576063d5aae44195e0bc0af7a56e547fe"
 }
