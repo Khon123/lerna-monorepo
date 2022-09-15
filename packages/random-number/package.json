@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "Khorn Pang <sokhon.pg@gmail.com>",
-  "homepage": "https://github.com/ravgeetdhillon/lerna-monorepo#readme",
+  "homepage": "https://github.com/Khon123/lerna-monorepo.git#readme",
   "license": "ISC",
   "main": "lib/random-number.js",
   "directories": {
@@ -18,12 +18,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravgeetdhillon/lerna-monorepo.git"
+    "url": "git+https://github.com/Khon123/lerna-monorepo.git"
   },
   "scripts": {
     "test": "node ./__tests__/random-number.test.js"
   },
   "bugs": {
-    "url": "https://github.com/ravgeetdhillon/lerna-monorepo/issues"
+    "url": "https://github.com/Khon123/lerna-monorepo/issues"
   }
 }
