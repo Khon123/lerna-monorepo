@@ -1,18 +1,6 @@
-0 silly argv {
-0 silly argv   _: [ 'create' ],
-0 silly argv   lernaVersion: '5.5.1',
-0 silly argv   '$0': 'lerna',
-0 silly argv   name: 'random-string'
-0 silly argv }
-1 notice cli v5.5.1
-2 verbose rootPath /Users/khorn/Documents/my-docs/npmpackages/lerna-monorepo
-3 error Error: canceled
-3 error     at Interface.<anonymous> (/Users/khorn/.nvm/versions/node/v16.16.0/lib/node_modules/lerna/node_modules/read/lib/read.js:66:13)
-3 error     at Interface.emit (node:events:527:28)
-3 error     at Interface._ttyWrite (node:readline:1081:16)
-3 error     at ReadStream.onkeypress (node:readline:288:10)
-3 error     at ReadStream.emit (node:events:527:28)
-3 error     at emitKeys (node:internal/readline/utils:358:14)
-3 error     at emitKeys.next (<anonymous>)
-3 error     at ReadStream.onData (node:internal/readline/emitKeypressEvents:61:36)
-3 error     at ReadStream.emit (node:events:527:28)
+38 error Error: Command failed with exit code 128: git tag v0.0.1 -m v0.0.1
+38 error fatal: tag 'v0.0.1' already exists
+38 error     at makeError (/Users/khorn/.nvm/versions/node/v16.16.0/lib/node_modules/lerna/node_modules/execa/lib/error.js:60:11)
+38 error     at handlePromise (/Users/khorn/.nvm/versions/node/v16.16.0/lib/node_modules/lerna/node_modules/execa/index.js:118:26)
+38 error     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+38 error     at async Promise.all (index 0)
