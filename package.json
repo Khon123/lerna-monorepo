@@ -4,6 +4,11 @@
   "workspaces": [
     "packages/*"
   ],
+  "npmClientArgs": [
+    "--strict-ssl=false",
+    "--always-auth=true",
+    "--_auth=AUTH-KEY"
+  ],
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
