@@ -1,6 +1,6 @@
 {
   "name": "@khorn/geocoder",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "A mapboxgl plugin for the Mapbox Search geocoder API",
   "homepage": "https://github.com/Khon123/lerna-monorepo.git#readme",
   "main": "./lib/cjs/index.js",
