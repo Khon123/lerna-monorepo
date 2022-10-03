@@ -7,5 +7,5 @@
 ```
 const randomString = require('random-string');
 
-// TODO: DEMONSTRATE API
+// TODO: DEMONSTRATE
 ```
