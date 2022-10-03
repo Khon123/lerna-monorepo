@@ -7,5 +7,5 @@
 ```
 const randomNumber = require('random-number');
 
-// TODO: DEMONSTRATE API
+// TODO: DEMONSTRATE
 ```

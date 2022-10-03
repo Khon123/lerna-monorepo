@@ -1,4 +1,5 @@
 {
+  "author": "Khorn Pang <sokhon.pg@gmail.com>",
   "name": "@khorn/geocoder",
   "version": "0.0.14",
   "description": "A mapboxgl plugin for the Mapbox Search geocoder API",
@@ -42,7 +43,6 @@
     "osm",
     "gl"
   ],
-  "author": "Khorn",
   "peerDependencies": {
     "maplibre-gl": "^0.41.0 <2.0.0"
   },
@@ -115,5 +115,5 @@
     "turf-extent": "^1.0.4",
     "xtend": "4.0.2"
   },
-  "gitHead": "a9f94115e64516ed64e160541c0984edaafb95d6"
+  "gitHead": "41c224b7a8412580146b9ac8ae0802b592030dca"
 }
