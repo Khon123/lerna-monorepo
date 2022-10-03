@@ -1,7 +1,7 @@
 {
   "author": "Khorn Pang <sokhon.pg@gmail.com>",
   "name": "@khorn/geocoder",
-  "version": "0.0.15-alpha.0+dc4d546",
+  "version": "0.0.15",
   "description": "A mapboxgl plugin for the Mapbox Search geocoder API",
   "homepage": "https://github.com/Khon123/lerna-monorepo.git#readme",
   "main": "./lib/cjs/index.js",
