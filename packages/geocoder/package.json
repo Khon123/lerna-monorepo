@@ -1,6 +1,6 @@
 {
   "name": "@z1data/geocoder",
-  "version": "1.0.0",
+  "version": "0.0.9",
   "description": "A mapboxgl plugin for the Mapbox Search geocoder API",
   "homepage": "https://github.com/Khon123/lerna-monorepo.git#readme",
   "main": "./lib/cjs/index.js",
