@@ -38,7 +38,7 @@
     "osm",
     "gl"
   ],
-  "author": "Keaksey",
+  "author": "Khorn",
   "peerDependencies": {
     "maplibre-gl": "^0.41.0 <2.0.0"
   },
@@ -111,5 +111,5 @@
     "turf-extent": "^1.0.4",
     "xtend": "4.0.2"
   },
-  "gitHead": "f02c6ffd8aa51f32f1ab06d32e35d3a6e03a81cb"
+  "gitHead": "1cce99d76c4860baeba83f3d7b9d86d42b8d0de5"
 }
